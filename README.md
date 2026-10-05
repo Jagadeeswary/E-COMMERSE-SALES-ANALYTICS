@@ -1,18 +1,14 @@
 
 <div align="center">
- 🛒 E-Commerce Sales Analytics
 
-### Interactive Power BI Dashboard for Order, Revenue & Fulfillment Insights
+# 📊 E-COMMERSE SALES-ANALYTICS
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-4FD1C5?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-8B7CF6?style=for-the-badge)
 
 </div>
-
----
-
 ## 📊 Overview
 
 An interactive 5-page Power BI dashboard analyzing 1,200 e-commerce orders (2024–2025) across 8 categories, 14 states, and 6 payment methods. Features KPI cards, treemaps, donuts, a matrix, map, funnel, and waterfall to track revenue, fulfillment, customer behavior, and regional trends — with full cross-page navigation and slicer-driven exploration.
